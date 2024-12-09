@@ -11,8 +11,6 @@ Using HTML5 And CSS3,Bootstrap Materials,Designed Happy Birthday animation desig
 This is a personal website that I made for my Best Friend as a gift on his birthday🎁
 
 Made with ❤️ using
-
-- Flask framework
 - Animate properties
 - HTML,CSS
 - JavaScript
